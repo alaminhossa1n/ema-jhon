@@ -1,0 +1,17 @@
+.card-container {
+    Width: 300px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+}
+.card-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn-addToCart{
+    width: 100%;
+    background-color: #FFE0B3;
+}
+
+
